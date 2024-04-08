@@ -11,8 +11,8 @@ message = "This is testing purpose only!"
 
 def send_email(receiver_email, message):
 	# Email configuration
-	sender_email = "prathampatel8320@gmail.com"
-	password = "vdtz gfex tcoq odbc"  # Prompt for email password	
+	sender_email =  # add email here!
+	password = # enter your app key
 	smtp_server = "smtp.gmail.com"  # Change according to your email provider
 	smtp_port = 587  # Change according to your email provider
 
